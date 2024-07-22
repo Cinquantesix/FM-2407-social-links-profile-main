@@ -125,3 +125,20 @@ main {
 		width: 23.5rem;
 	}	
 }
+
+.attribution { 
+	font-size: 11px; 
+	text-align: center;
+	margin-top: -1.5rem;
+}
+.attribution a {
+	font-weight: 900;
+	color: var(--White);
+	opacity: .7;
+	text-decoration: none;
+	transition: all .3s ease;
+}
+
+.attribution a:hover {
+	opacity: 1;
+}
